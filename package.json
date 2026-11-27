@@ -1,0 +1,7 @@
+{
+  "name": "doc-harbour-frontend",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Doc Harbour React frontend scaffold; implementation pending"
+}
